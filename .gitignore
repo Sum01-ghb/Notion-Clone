@@ -34,4 +34,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-
+convex/_generated/*
+!convex/_generated/api.d.ts
